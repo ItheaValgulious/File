@@ -1,22 +1,5 @@
 {
   "path": "/",
   "type": "folder",
-  "children": [
-    {
-      "path": "//New_Folder",
-      "type": "folder",
-      "children": [
-        {
-          "path": "//New_Folder/abc.fire",
-          "type": "file",
-          "id": "memdm8l94dr3xry32ca"
-        },
-        {
-          "path": "//New_Folder/note_2025_08_22_13_19_34.fire",
-          "type": "file",
-          "id": "memdsaufr152r2iijs"
-        }
-      ]
-    }
-  ]
+  "children": []
 }
