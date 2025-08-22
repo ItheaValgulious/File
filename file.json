@@ -1,5 +1,11 @@
 {
   "path": "/",
   "type": "folder",
-  "children": []
+  "children": [
+    {
+      "path": "//note_2025_08_22_22_43_05.fire",
+      "type": "file",
+      "id": "memxx070unregba2yxb"
+    }
+  ]
 }
