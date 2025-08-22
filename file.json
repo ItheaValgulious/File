@@ -1,11 +1,5 @@
 {
   "path": "/",
   "type": "folder",
-  "children": [
-    {
-      "path": "//a.fire",
-      "type": "file",
-      "id": "memeoycbe829dfpb3hd"
-    }
-  ]
+  "children": []
 }
