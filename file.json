@@ -10,7 +10,13 @@
     {
       "path": "//New_Folder",
       "type": "folder",
-      "children": []
+      "children": [
+        {
+          "path": "//New_Folder/note_2025_08_22_13_14_51.fire",
+          "type": "file",
+          "id": "memdm8l94dr3xry32ca"
+        }
+      ]
     }
   ]
 }
